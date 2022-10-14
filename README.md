@@ -1,4 +1,4 @@
-# Simsom-Paradox
+# Simpson-Paradox
 
 The following table shows two entry rates of an university between male and female. A junior analyst told his manager that there is a gender discrimination as the 
 entry rate of female (40%) is lower than male (53%)
