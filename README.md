@@ -17,4 +17,4 @@ When we further look into the subgroups (i.e. subjects),interestingly, we can fi
 
 From the above, we can see that Nurse and Teacher are hard subjects compared to other subjects based on entry rate no matter which gender. Unfortunately, most of the females picked these subjects and so we expect there would be a lot of females failed to enter. As a result, it lowers down the overal entry rate of female.
 
-Therefore, data analysts should not just look at the overall total rate / figures to judge a conclusion easily. They should also focus on the subgroup in order to explain a full picture.
+Therefore, data analysts should not just look at the overall total rate / figures to judge a conclusion easily. They should also focus on the subgroups in order to explain a full picture.
