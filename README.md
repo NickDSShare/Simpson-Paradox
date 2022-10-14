@@ -1,6 +1,6 @@
 # Simsom-Paradox
 
-The following table shows two university entry rates between male and female. Someone concluded that there is a gender discrimination as the 
+The following table shows two entry rates of university between male and female. Someone concluded that there is a gender discrimination as the 
 entry rate of female (40%) is lower than male (53%)
 
 ![image](https://user-images.githubusercontent.com/115760798/195812391-26240212-dc64-4a94-aac9-e7cff7a46b14.png)
