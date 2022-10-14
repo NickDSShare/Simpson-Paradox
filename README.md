@@ -1,5 +1,4 @@
 # Simsom-Paradox
-It is something that data analyst should be aware of
 
 The following table shows two university entry rates between male and female. Someone concluded that there is a gender discrimination as the 
 entry rate of female (40%) is lower than male (53%)
